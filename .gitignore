@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 seq_2_seq_train_data/
 seq_2_seq_valid_data/
+seq_2_seq_test_data/

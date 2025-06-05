@@ -2,3 +2,5 @@
 seq_2_seq_train_data/
 seq_2_seq_valid_data/
 seq_2_seq_test_data/
+seq_2_seq_train_data_alt/
+seq_2_seq_valid_data_alt/

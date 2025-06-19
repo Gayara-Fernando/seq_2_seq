@@ -5,3 +5,4 @@ seq_2_seq_test_data/
 seq_2_seq_train_data_alt/
 seq_2_seq_valid_data_alt/
 models/
+all_density_maps/

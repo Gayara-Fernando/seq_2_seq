@@ -12,3 +12,6 @@ jena_climate_2009_2016.csv.zip
 __MACOSX/
 jena_dense.keras
 jena_conv.keras
+jena_lstm.keras
+jena_lstm_dropout.keras
+jena_stacked_gru_dropout.keras

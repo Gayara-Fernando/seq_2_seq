@@ -10,3 +10,5 @@ stacked_densities/
 jena_climate_2009_2016.csv
 jena_climate_2009_2016.csv.zip
 __MACOSX/
+jena_dense.keras
+jena_conv.keras

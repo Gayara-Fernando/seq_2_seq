@@ -15,3 +15,5 @@ jena_conv.keras
 jena_lstm.keras
 jena_lstm_dropout.keras
 jena_stacked_gru_dropout.keras
+all_true_counts/
+all_predicted_counts/
